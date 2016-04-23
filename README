@@ -1,0 +1,17 @@
+Simple Server
+
+Description:
+
+Simple server I made to learn more about computer networking and HTTP
+requests. Used example code from Computer Networking: A Top Down Approach
+by Kurose and Ross. 
+
+Build instructions:
+
+Run the included makefile which builds with g++ using C++11.
+> make
+
+Useage:
+
+./SimpleServer <Port Number> <Document Directory>
+
